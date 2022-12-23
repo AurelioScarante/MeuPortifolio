@@ -1,0 +1,22 @@
+body {
+    background-color: #136066;
+    color: #e1eaec;
+}
+
+.minha_foto {
+    width: 150px;
+    border-radius: 100%;
+    border: 7px solid #84a1f1;
+}
+
+.btnVoltar {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: #84a1f1;
+}
+
+.descrição {
+    width: 600px;
+    font-size: 24px;
+}
